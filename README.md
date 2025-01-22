@@ -1,11 +1,45 @@
-- 👋 Hi, I’m Bipin Poudel
-- 👀 I’m interested in FUll-Stack Development.
-- 🌱 I’m currently learning =JavaScript
-- 📫 How to reach me ..Whatsapp, LinkedIn, Twitter, Instagram.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The fun fact is that there is no fun fact 
+### Hi there! 👋
 
-<!---
-bipin-Alt/bipin-Alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Bipin Poudel 🌟  
+Aspiring Full-Stack Developer | Engineering Student | Lifelong Learner
+
+---
+
+#### 🚀 About Me:
+- 🎓 **BE in Information Technology** student passionate about building robust and user-friendly web applications.
+- 🌱 Currently learning **JavaScript, React.js, Node.js**, and diving into **full-stack web development**.
+- 📚 Solving **100+ coding problems daily** to master programming fundamentals and algorithms.
+- 💻 Dedicated to **building projects** that reflect my skills and creativity.
+- 💡 I believe in continuous learning and always strive to sharpen my skills by taking on new challenges.
+
+---
+
+#### 🛠️ My Skills:
+- **Frontend:** HTML, CSS (Flexbox, Grid, Media Queries), JavaScript (ES6+).
+- **Backend:** Node.js (learning in progress).
+- **Tools & Platforms:** Git, GitHub, VS Code, FreeCodeCamp.
+- **Other Skills:** Problem-solving, Debugging, and Responsive Design.
+
+---
+
+#### 📈 What I'm Working On:
+- 📝 Building a **personal blog page** and **tribute page** as part of FreeCodeCamp projects.
+- 💼 Preparing for **certifications** in web development.
+- 🤝 Collaborating on **open-source projects** to learn teamwork and contribute to the dev community.
+
+---
+
+#### 🌟 Let's Connect:
+- 📫 Email: bipin.alt.ev7@gmail.com
+- 💬 LinkedIn:(https://www.linkedin.com/in/bipin-poudel-aa9279326/)
+- 🐦 Twitter:(https://x.com/alt_ev7Bipin)
+
+---
+
+#### 🌟 Fun Fact:
+I'm a big believer in the "**learn by doing**" philosophy, so you’ll often find me experimenting with new projects to improve my skills! 
+
+---
+
+
+Let’s build something amazing together! 🚀
