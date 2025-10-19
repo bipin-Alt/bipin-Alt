@@ -14,7 +14,7 @@ Aspiring Full-Stack Developer | Engineering Student | Lifelong Learner
 ---
 
 ####  My Skills:
-- **Frontend:** HTML, CSS (Flexbox, Grid, Media Queries), JavaScript (ES6+), React.js.
+- **Frontend:** HTML, CSS (Flexbox, Grid, Media Queries), JavaScript (ES6+), React.js, shadcn-UI
 - **Tools & Platforms:** Git, GitHub, VS Code,cursor, FreeCodeCamp.
 - **Other Skills:** Problem-solving, Debugging, and Responsive Design.
 
