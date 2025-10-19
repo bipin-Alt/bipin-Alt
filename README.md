@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Hi there! 
 
-I'm Bipin Poudel 🌟  
+I'm Bipin Poudel   
 Aspiring Full-Stack Developer | Engineering Student | Lifelong Learner
 
 ---
