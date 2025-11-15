@@ -1,43 +1,48 @@
-### Hi there! 
+# Bipin Poudel
 
-I'm Bipin Poudel   
-Aspiring Full-Stack Developer | Engineering Student | Lifelong Learner
+## Profile
 
----
+Focused on building strong fundamentals in **JavaScript**, **TypeScript**, and **React**. I prefer practical learning through well-structured, real projects.
 
-####  About Me:
--  **BE in Information Technology** student passionate about building robust and user-friendly web applications.
--  Currently learning **JavaScript, React.js, Node.js**, and diving into **full-stack web development**.
--  Dedicated to **building projects** that reflect my skills and creativity.
--  I believe in continuous learning and always strive to sharpen my skills by taking on new challenges.
+## Skills
 
----
+### Languages
 
-####  My Skills:
-- **Frontend:** HTML, CSS (Flexbox, Grid, Media Queries), JavaScript (ES6+), React.js, shadcn-UI
-- **Tools & Platforms:** Git, GitHub, VS Code,cursor, FreeCodeCamp.
-- **Other Skills:** Problem-solving, Debugging, and Responsive Design.
+* JavaScript
+* TypeScript
+* C++ (OOP basics)
 
----
+### Frontend
 
-####  What I'm Working On:
--  Building a **personal blog page** and **tribute page** as part of FreeCodeCamp projects.
--  Preparing for **certifications** in web development.
--  Collaborating on **open-source projects** to learn teamwork and contribute to the dev community.
+* React
+* Tailwind CSS
+* HTML & CSS
+* Canvas API
 
----
+### Tools & Libraries
 
-####  Let's Connect:
--  Email: bipin.alt.ev7@gmail.com
--  LinkedIn:(https://www.linkedin.com/in/bipin-poudel-aa9279326/)
--  Twitter:(https://x.com/alt_ev7Bipin)
+* Git & GitHub
+* Firebase Authentication
+* TanStack Query
 
----
+## Projects
 
-####  Fun Fact:
-I'm a big believer in the "**learn by doing**" philosophy, so you’ll often find me experimenting with new projects to improve my skills! 
+* **Authentication System (Firebase)** – Login, register, and protected pages.
+* **Shopping Cart (TanStack Query)** – Server state handling, caching, and updates.
+* **CodeAlt Notes App** – Simple and clean note‑taking application.
+* **Expense Tracker** – Tracks expenses with persistent local storage.
+* **Drawing App (React + Canvas)** – Basic browser drawing tool.
+* **Navigation Menu Conversion** – Converted complex HTML navigation into modular React components.
+* **Marksheet Generator** – Automated marksheet output.
+* **Number Guessing Game** – Basic JavaScript game.
 
----
+## GitHub Stats
 
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+```
 
-Let’s build something amazing together! 
+## Contact
+
+GitHub: github.com/YOUR_USERNAME
